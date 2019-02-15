@@ -1,0 +1,43 @@
+.uppercase {
+    text-transform: uppercase;
+}
+
+.top-3 {
+    margin-top: 3%;
+}
+
+.top-6 {
+    margin-top: 6%;
+}
+
+.img-games {
+    height: 78px;
+    width: 200px;
+}
+
+.lucky6-ball {
+    display: inline;
+    padding-left: 16px;
+    padding-right: 16px;
+    background-color: red;
+    margin-left: 6px;
+    margin-right: 6px;
+    border-radius: 50%;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+.lucky6-ball:hover {
+    background-color: lightgray;
+    cursor: pointer;
+}
+
+.lucky6-num {
+    font-size: 16pt;
+}
+
+.center {
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+}
