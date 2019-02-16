@@ -1,5 +1,5 @@
 # Really-Lucky
-.NET Core + Angular CLI multi game project.
+.NET Core WEB API + HTML / JS / CSS multi game project.
 
 ## How to start? ##
 Install .NET Core 2.1, open solution and start project.
